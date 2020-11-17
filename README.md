@@ -1,4 +1,4 @@
 
 My Note:
 
-https://github.com/alvin2ye/blog/issues
+https://github.com/alvin2ye/notes/issues
